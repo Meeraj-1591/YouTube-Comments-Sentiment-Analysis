@@ -222,13 +222,6 @@ plotly
 
 ---
 
-## 🎓 Academic Context
-
-MSc – Big Data Analytics  
-Module: Big Data Analytics  
-Project Type: NLP & Deep Learning
-
----
 
 ## 👤 Author
 
